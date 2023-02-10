@@ -4,3 +4,4 @@
 3-listfiles file: list all the files in a working directory in long format.
 4-listmorefiles file: list all contents of a directory including those that thier names starts with a "." which are always hidden.
 5-listfilesdigitonly file: list the contents of a category with username and group in digital format.
+6-firstdirectory file: creates directory in the tmp directory.
