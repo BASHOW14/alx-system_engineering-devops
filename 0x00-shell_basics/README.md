@@ -5,3 +5,4 @@
 4-listmorefiles file: list all contents of a directory including those that thier names starts with a "." which are always hidden.
 5-listfilesdigitonly file: list the contents of a category with username and group in digital format.
 6-firstdirectory file: creates directory in the tmp directory.
+7-movethatfile file : moves betty file in tmp to my_first_directory.
