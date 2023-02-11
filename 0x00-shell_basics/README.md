@@ -6,4 +6,5 @@
 5-listfilesdigitonly file: list the contents of a category with username and group in digital format.
 6-firstdirectory file: creates directory in the tmp directory.
 7-movethatfile file : moves betty file in tmp to my_first_directory.
-8-firstdelete : deletes file named betty in my_first_directory.
+8-firstdelete file : deletes file named betty in my_first_directory.
+9-firstdirdeletion file : deletes my_first_directory.
