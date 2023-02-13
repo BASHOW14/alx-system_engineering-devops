@@ -33,4 +33,4 @@
 
 102-tree file:  creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
 
-You can assume that the directory /tmp/u will exist when we will run your script
+103-commas file: lists all the files and directories of the current directory, separated by commas (,).
