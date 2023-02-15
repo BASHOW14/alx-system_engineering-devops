@@ -1,0 +1,2 @@
+#!/bin/bash
+mplayer -V CaCa /ruta/al/archivo
