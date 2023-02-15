@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lamp | sort k9
+ls -lamp 
